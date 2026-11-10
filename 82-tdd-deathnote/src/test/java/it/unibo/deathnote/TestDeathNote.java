@@ -1,12 +1,9 @@
 package it.unibo.deathnote;
 
-import org.junit.jupiter.api.Test ;
-import static org.junit.jupiter.api.Assertions.*;
-
 import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test ;
 
-import it.unibo.deahnote.deathnote.impl.DeathNoteImpl;
-import it.unibo.deathnote.api.DeathNote;
+import it.unibo.deathnote.impl.DeathNoteImpl;
 
 class TestDeathNote {
 
